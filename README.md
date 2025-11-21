@@ -6,4 +6,4 @@
 
 It aims to provide a simple and effective tool to connect professionals with clients, optimize their business activities, and facilitate the daily management of their services.
 
-![Image Alt](https://github.com/sweethehe/4U_prestataire_freelance/blob/main/4U_prestataires_presentation.png)
+![Image Alt](https://github.com/sweethehe/4U_prestataire_freelance/blob/main/4U_prestataires_app_presentation.png)
